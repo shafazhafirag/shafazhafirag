@@ -19,4 +19,11 @@ Here are some ideas to get you started:
 Perkenalkan nama saya **Shafa Zhafira Gunvany**.\
 Saya seorang **Student** di [Gunadarma](https://www.gunadarma.ac.id/).\
 Saya kuliah di Fakultas Teknologi Industri Jurusan Informatika
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [linktr.ee](https://linktr.ee/shafazhafirag)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [linktr.ee](https://linktr.ee/shafazhafirag) ku ya.
+
+<p align="left">
+<a href="https://github.com/shafazhafirag">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shafazhafirag&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shafazhafirag&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>

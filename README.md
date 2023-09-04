@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+
+Perkenalkan nama saya **Shafa Zhafira Gunvany**.\
+Saya seorang **Student** di [Gunadarma](https://www.gunadarma.ac.id/).\
+Saya kuliah di Fakultas Teknologi Industri Jurusan Informatika
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [linktr.ee](https://linktr.ee/shafazhafirag)ku ya.

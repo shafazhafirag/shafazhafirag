@@ -24,6 +24,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [linktr.ee](htt
 <p align="left">
 <a href="https://github.com/shafazhafirag">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shafazhafirag&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shafazhafirag&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
